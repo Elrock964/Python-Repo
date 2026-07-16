@@ -8,10 +8,3 @@ The user chooses how long they want the password to be, and the program creates 
 
 
 I made this project because I wanted to practice Python while learning how passwords help keep people's information safe.
-
-### Skills Used
-- Python
-- Functions
-- Loops
-- Python modules (`secrets` and `random`)
-- String manipulation
