@@ -1,10 +1,10 @@
 # Python-Repo
-A collection of my Python based projects
+This is a collection of my Python based projects
 
 ## Password Generator
-This is a prodject I made that generates a string of rambom letters, numbers and symbols
-The user inputs the number of how long they want their password to be
-Here is the link to the prodject: https://codepad.app/pad/3g8z38cn
+This is a project I made that generates a random password using a string of letters, numbers, and symbols.
+The user chooses how long they want the password to be, and the program creates a password for them.
+Here is the link to the project: https://codepad.app/pad/3g8z38cn
 
 
-I made this prodject because passwords keep the users information safe
+I made this project because I wanted to practice Python while learning how passwords help keep people's information safe.
