@@ -23,6 +23,8 @@ def Password(pass_Len):
     result = "".join(char_list)
     return result
 
+print("Welcomw to Password Generator!")
+
 while True:
     char_len = int(input("How long do you want your password to be?: "))
     
