@@ -24,7 +24,7 @@ def Password(pass_Len):
     return result
 
 while True:
-    char_len = int(input("How long is your do you want yourt password: "))
+    char_len = int(input("How long do you want your password to be?: "))
     
     result = Password(char_len)
     print(result)
