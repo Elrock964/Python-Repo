@@ -20,4 +20,4 @@ I made this project as a way to learn more about cybersecurity, password securit
 This project is intended only for educational purposes and for testing systems, accounts, or password hashes that you own or have permission to test.
 Using this software on systems or accounts without permission may violate laws or organizational policies. I do not encourage or support using this project for unauthorized or illegal activities.
 My goal with this project is to better understand how password attacks work so I can learn how to build stronger and more secure systems.
-- **Here is the link to the project: https://codepad.app/edit/tz57409p**
+- **Here is the link to the project: https://codepad.app/pad/tz57409p**
