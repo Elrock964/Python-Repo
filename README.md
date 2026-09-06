@@ -7,13 +7,13 @@ The user chooses how long they want the password to be, and the program creates 
 
 **How to Use It**
 
-1. Run the program.
+1. Click on the link below.
 2. Enter how long you want the password to be.
 3. The program creates a random password.
 
 I made this project because I wanted to practice Python while learning how passwords help keep people's information safe.
 
-- **Here is the link to the project: https://codepad.app/pad/3g8z38cn**
+- **Here is the link to the Password Generator project: https://codepad.app/pad/3g8z38cn**
 
 ## Password Attack Demonstration
 
@@ -22,7 +22,7 @@ This project helped me understand why having a longer and more complex password 
 I made this project to see how a brute-force password attack works. The program tries different combinations of letters, numbers, and symbols until it finds the password that was entered.
 
 **How to Use It**
-1. Run the program.
+1. Click on the link.
 2. Enter a password to test.
 3. Wait for the program to find the password.
 4. Review the results.
@@ -47,4 +47,4 @@ The program is limited to passwords up to 9 characters. I wanted to show how a b
 
 I made this project because I wanted to learn more about cybersecurity and password security. The program only tries to guess a password that the user enters into it. It does not connect to other accounts or systems.
 
-- **Here is the link to the project: https://codepad.app/pad/tz57409p**
+- **Here is the link to the Password Attack Demonstration project: https://codepad.app/pad/tz57409p**
