@@ -48,3 +48,6 @@ The program is limited to passwords up to 9 characters. I wanted to show how a b
 I made this project because I wanted to learn more about cybersecurity and password security. The program only tries to guess a password that the user enters into it. It does not connect to other accounts or systems.
 
 - **Here is the link to the Password Attack Demonstration project: https://codepad.app/pad/tz57409p**
+
+## Log_Scanner
+This scanner takes a text file containing data of visitor identity, request details and the server response. To detect any suspicious requests, I made a phyton script to read through each request and instance unusual behavior. This includes, malicious keywords, bad status codes and high frequency requests.
