@@ -50,7 +50,7 @@ I made this project because I wanted to learn more about cybersecurity and passw
 - **Here is the link to the Password Attack Demonstration project: https://codepad.app/pad/tz57409p**
 
 ## Log_Scanner
-This scanner takes a text file containing data of visitor identity, request details and the server response. To detect any suspicious requests, I made a phyton script to read through each request and instance unusual behavior. This includes, malicious keywords, bad status codes and high frequency requests.
+This scanner takes a text file containing data of visitor identity, request details and the server response. To detect any suspicious requests, I made a phyton script to read through each request and instance to look for unusual behavior. This includes, malicious keywords, bad status codes and high frequency requests.
 
 ## Encrypt
 I made this project to make hidden messages. This can make a secret code using Fernet. The program can type hidden message in the secret code and make encrypted results. You can paste your secret key then paste your encrypted results to see your hidden message.
